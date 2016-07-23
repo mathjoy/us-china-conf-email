@@ -3,7 +3,7 @@ Run the folloing commant:
 
 #clone project to your local folder
 
-gitclone https://github.com/mathjoy/us-china-conf-email.git
+git clone https://github.com/mathjoy/us-china-conf-email.git
 
 cd us-china-conf-email
 
