@@ -1,0 +1,8 @@
+######Gmail Server Account   !!!! Please setup GmailServerUser AND GmailServerPassword Firstly
+SMTP=smtp.gmail.com:587
+GmailServerUser=
+GmailServerPassword=
+createdBy=Xingtang Hu
+bcc=xingtang.hu@afficienta.com,bochuxt@gmail.com
+From=US-China Investment Summit<sunnychen201213@gmail.com>
+sender=sunnychen201213@gmail.com
