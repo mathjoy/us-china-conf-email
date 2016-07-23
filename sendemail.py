@@ -41,7 +41,7 @@ class sendMail(object):
 
         createdBy = "Xingtang Hu"
         fromuserName = "sunnychen201213@gmail.com"
-        reportDate = date(2016, 5, 20)
+        reportDate = date(2016, 07, 23)
           # def sendProgressReportToUser(self, createdBy, userName, createdDate, TEST=False, programId="1"):
         TEST=False
         self.service.sendEmailToUser(createdBy, fromuserName, reportDate,TEST)
