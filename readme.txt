@@ -22,6 +22,8 @@ pip install -r requirements.txt
 
 #setup sender email list at receiverlist.csv
 
+#setup Email Template at : templates/us-china-mail-template.html
+
 
 #run :  python sendemail.py
 
